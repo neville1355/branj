@@ -9,7 +9,7 @@ Automatically check out a git branch corresponding to the name of a given JIRA t
 Install directly from this repository's cask file:
 
 ```shell
-$ brew install --cask https://raw.githubusercontent.com/nulogy/branj/master/branj.rb
+$ brew install --cask https://raw.githubusercontent.com/neville1355/branj/master/branj.rb
 ```
 
 ### Manually
