@@ -3,7 +3,7 @@ class Branj < Formula
   homepage "https://github.com/neville1355/branj"
   url "https://github.com/neville1355/branj/archive/refs/heads/master.zip"
   version "1.0.0"
-  sha256 "3f2e21bcf64128b28900b525dc5c1853a064b00d1d6d67a8c5853755f9498b72"
+  sha256 "920f042c12a90da45ffbc5137bf64a3823cf3368606114f801d6724ae6a495d0"
 
   def install
     bin.install "branj"
