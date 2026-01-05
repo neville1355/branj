@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b31c0837-396a-4aeb-ab54-32b90c11ca27" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formula/branj.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Formula/branj.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1762193734504</updated>
       <workItem from="1762193735717" duration="4158000" />
-      <workItem from="1767637263395" duration="1568000" />
+      <workItem from="1767637263395" duration="1798000" />
     </task>
     <servers />
   </component>
