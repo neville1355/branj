@@ -1,5 +1,5 @@
 cask 'branj' do
-  version '1.0.1'
+  version '1.0.2'
   sha256 :no_check
   url 'https://github.com/nulogy/branj/archive/1.0.1.zip'
   name 'branj'
